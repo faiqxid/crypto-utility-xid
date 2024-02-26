@@ -4,11 +4,7 @@ A simple npm module to convert cryptocurrency prices between different currencie
 
 ## Installation
 
-You can install the module via npm:
-
-```bash
-npm i crypto-utility-xid
-```
+npm install crypto-utility-xid
 
 
 ## Usage
