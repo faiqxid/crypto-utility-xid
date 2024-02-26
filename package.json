@@ -1,6 +1,6 @@
 {
   "name": "crypto-utility-xid",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A simple npm module for encrypting and decrypting messages using AES encryption.",
   "main": "cryptoUtilityxid.js",
   "scripts": {

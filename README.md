@@ -1,16 +1,20 @@
-# Crypto Utility
+# Crypto Price Converter
 
-A simple npm module for encrypting and decrypting messages using AES encryption.
+A simple npm module to convert cryptocurrency prices between different currencies.
 
 ## Installation
 
-npm install crypto-utility
+You can install the module via npm:
+
+```bash
+npm i crypto-utility-xid
+```
 
 
 ## Usage
 
 ```javascript
-const { encryptMessage, decryptMessage } = require('crypto-utility');
+const { encryptMessage, decryptMessage } = require('crypto-utility-xid');
 
 const message = 'Hello, world!';
 const key = 'secret key';
