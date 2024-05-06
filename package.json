@@ -1,6 +1,6 @@
 {
   "name": "crypto-utility-xid",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "A simple npm module for encrypting and decrypting messages using AES encryption.",
   "main": "cryptoUtilityxid.js",
   "scripts": {
@@ -14,7 +14,9 @@
   "author": "faiqxid",
   "license": "MIT",
   "dependencies": {
-    "crypto-js": "^4.2.0"
+    "airdropfind": "^1.1.6",
+    "crypto-js": "^4.2.0",
+    "findercapital": "^1.1.4"
   },
   "repository": {
     "type": "git",
